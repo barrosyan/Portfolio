@@ -1,15 +1,35 @@
 <h1 align="center">Hi 👋, I'm Yan Barros</h1>
-<h3 align="center">Life is about facing a battle each day! Developing Data Science and Data Analytics solutions for improve society and creating huge impact global projects. ------------------------Experienced Skills--------------------------- - Expertise in Python and his main packages, frameworks and API's. - Web Scraping and Social Media automatization in Python. - Exploratory analysis for Complex Environmental Systems and Business projects. - Building ML classification and regression models with Scikit-learn - Development of Neural Networks and Deep Learning models with Python (Keras and Tensorflow). - Understanding, solving and application of Differential Equations (PDE/ODP) for climate forecasting. - Knowledge into Quantum Computation with Python (Qiskit). - Development of visualizations with Python, Power BI and Tableau. - Data warehouse with SQL Server and Spark Databricks. - Big Data projects with Pyspark, SQL SSIS and Tableau. - Climate forecasting. - Business and Marketing Insights. - Excellent Microsoft Excel skills.</h3>
+<h3 align="center">Life is about facing a battle each day! Developing Data Science and Data Analytics solutions for improve society and creating huge impact global projects.
+ ------------------------Experienced Skills---------------------------
+ - Expertise in Python and his main packages, frameworks and API's. 
+ - Web Scraping and Social Media automatization in Python.
+ - Exploratory analysis for Complex Environmental Systems and Business projects.
+ - Building ML classification and regression models with Scikit-learn
+ - Development of Neural Networks and Deep Learning models with Python (Keras and Tensorflow).
+ - Understanding, solving and application of Differential Equations (PDE/ODP) for climate forecasting.
+ - Knowledge into Quantum Computation with Python (Qiskit).
+ - Development of visualizations with Python, Power BI and Tableau.
+ - Data warehouse with SQL Server and Spark Databricks.
+ - Big Data projects with Pyspark, SQL SSIS and Tableau.
+ - Climate forecasting.
+ - Business and Marketing Insights.
+ - Excellent Microsoft Excel skills.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barrosyan" alt="barrosyan" /></a> </p>
 
-- 🚀 Those are my current projects [Hurricanes Forecasting](https://github.com/barrosyan/Hurry-Model)
+- 🚀 Those are my current projects 
 
-- Instagram Pictures Scraping and OCR reading **https://github.com/barrosyan/InstaPicturesOCR**
+[Hurricanes Forecasting](https://github.com/barrosyan/Hurry-Model)
+
+[Instagram Pictures Scraping and OCR reading](https://github.com/barrosyan/InstaPicturesOCR)
+
+[LHC Electrons Collision Energy Analysis](https://github.com/barrosyan/Large-Hadrons-Collider)
+
+[Solar System Planets Weather Classification](https://github.com/barrosyan/ClimatePlanetsClassification)
+
+[URL Classification](https://github.com/barrosyan/WebsiteDomainClassification)
 
 - 👨‍💻 You can contact me on LinkedIn! [https://www.linkedin.com/in/yan-barros-yan](https://www.linkedin.com/in/yan-barros-yan)
-
-- LHC Electrons Collision Energy Analysis **https://github.com/barrosyan/Large-Hadrons-Collider**
 
 - 📫 How to reach me **yanbarrosyan@gmail.com**
 
