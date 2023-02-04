@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yan Barros</h1>
-<h3 align="center">Life is about facing a battle each day! Developing Data Science and Data Analytics solutions for improve society and creating huge impact global projects.
- ------------------------Experienced Skills---------------------------
+<h3 align="center">Life is about facing a battle each day! Developing Data Science and Data Analytics solutions for improve society and creating huge impact global projects. </h3>
+ 
+------------------Experienced Skills-------------------
  - Expertise in Python and his main packages, frameworks and API's. 
  - Web Scraping and Social Media automatization in Python.
  - Exploratory analysis for Complex Environmental Systems and Business projects.
@@ -13,7 +14,7 @@
  - Big Data projects with Pyspark, SQL SSIS and Tableau.
  - Climate forecasting.
  - Business and Marketing Insights.
- - Excellent Microsoft Excel skills.</h3>
+ - Excellent Microsoft Excel skills.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barrosyan" alt="barrosyan" /></a> </p>
 
