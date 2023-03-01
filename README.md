@@ -22,13 +22,9 @@
 
 [Hurricanes Forecasting](https://github.com/barrosyan/Hurry-Model)
 
-[Instagram Pictures Scraping and OCR reading](https://github.com/barrosyan/InstaPicturesOCR)
-
 [LHC Electrons Collision Energy Analysis](https://github.com/barrosyan/Large-Hadrons-Collider)
 
 [Solar System Planets Weather Classification](https://github.com/barrosyan/ClimatePlanetsClassification)
-
-[URL Classification](https://github.com/barrosyan/WebsiteDomainClassification)
 
 - 👨‍💻 You can contact me on LinkedIn! [https://www.linkedin.com/in/yan-barros-yan](https://www.linkedin.com/in/yan-barros-yan)
 
